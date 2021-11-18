@@ -1,4 +1,9 @@
  img {
      position: relative;
-     width:80%
+     width:80%;
+     
+ }
+
+ #img-div{
+    align-items: center;
  }
